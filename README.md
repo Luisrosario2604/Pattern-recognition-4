@@ -16,26 +16,27 @@ For this purpose we have decided to solve this exercise with a Convolutional Neu
 ## Requirements
 
 * Python 3.7+
-* Jupyter notebook
 
-
-* matplotlib == 3.3.4
-* numpy == 1.21.3
-* scikit_learn == 1.1.1
-* pillow == 9.2.0
-* tensorflow == 2.6.0
+* jupyter ~= 1.0.0
+* matplotlib ~= 3.3.4
+* scikit_learn ~= 1.0.1
+* pillow ~= 9.2.0
+* tensorflow ~= 2.6.0
+* numpy (automaticaly downloaded from previous packages)
 
 
 How to install all the requirements :
+
 ```bash
-$ pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
 
 Execute only from project directory
+
 ```bash
-$ jupyter notebook src/main.ipynb
+jupyter notebook src/main.ipynb
 ```
 
 ## Structure
@@ -61,7 +62,6 @@ $ jupyter notebook src/main.ipynb
     ├── Reto4.pdf
     └── src
         └── main.ipynb
-
 
 ## Examples
 

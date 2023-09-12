@@ -1,5 +1,5 @@
-matplotlib==3.3.4
-numpy==1.21.3
-Pillow==9.2.0
-scikit_learn==1.1.1
-tensorflow==2.6.0
+jupyter~=1.0.0
+matplotlib~=3.3.4
+Pillow~=9.2.0
+scikit_learn~=1.0.1
+tensorflow~=2.6.0
