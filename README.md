@@ -15,7 +15,7 @@ For this purpose we have decided to solve this exercise with a Convolutional Neu
 
 ## Requirements
 
-* Python 3.7+
+* Python 3.9+
 
 * jupyter ~= 1.0.0
 * matplotlib ~= 3.3.4
